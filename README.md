@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+技术格言：
+- 台上十分钟，台下十年功
+- 日日练，日日功；一日不练三日空
+- 工欲善其事，必先利其器
+- The only source of knowledge is experience. —— 愛因斯坦 Albert Einstein
