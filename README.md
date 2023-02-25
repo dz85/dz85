@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 台上十分钟，台下十年功
 - 日日练，日日功；一日不练三日空
 - 工欲善其事，必先利其器
-- The only source of knowledge is experience. —— 愛因斯坦 Albert Einstein
+- The only source of knowledge is experience. ———— 愛因斯坦 Albert Einstein
+- We know more than we can tell. ———— Polanyi's Paradox
+- 拙于言，而敏于心 ———— 《资治通鉴》
 
 人生格言：
 
