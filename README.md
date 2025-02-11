@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Just For Fun
+![trophy](https://github-profile-trophy.vercel.app/?username=dz85&rank=SSS,SS,S)
+
 <!--
 **dz85/dz85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
